@@ -6,3 +6,6 @@ https://aminet.net/package/docs/hard/appe_v32
 
 Modified to be compiled with gpasm or MPASM.
 and translated all the comments from spanish to english
+
+The simple schematic:
+<img width="800" height="600" alt="psxtojoy_sq" src="https://github.com/user-attachments/assets/d03cadf9-84e5-4514-960a-e38843a31a18" />
